@@ -45,7 +45,7 @@ sudo udevadm control --reload-rules && sudo udevadm trigger
 
 python3.8 -m pip install opencv-python
 
--That is all ! you can run the script that I uploaded. 
+-That is all ! you can run the script that I uploaded but don't forget to download haar cascade for face . You will need to give the path of the this file. 
 
 
 
